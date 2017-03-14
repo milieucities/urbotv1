@@ -1,0 +1,10 @@
+h1 {
+  font-family: 'lato', sans-serif;
+  font-weight: 700;
+  margin: 5% 20%;
+  font-size: 120px;
+  background: #a3c1b1;
+  background: -webkit-linear-gradient(45deg,#a3c1b1,#5791b4);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
