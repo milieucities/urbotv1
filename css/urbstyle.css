@@ -21,6 +21,7 @@ h1 {
   float: left;
   margin-top: 0;
   padding-left: 20%;
+  padding-right:20%;
   -webkit-animation-delay: -3s; /* Safari 4.0 - 8.0 */
     animation-delay: -3s;
 }
